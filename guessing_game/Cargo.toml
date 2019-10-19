@@ -1,0 +1,11 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = ["Gregory Paton <gregpaton08@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+rand = "0.3.14" # crate for generating random numbers. will download this crate and any crates this it depends on (in this case, libc).
