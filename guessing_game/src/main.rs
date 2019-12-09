@@ -1,3 +1,7 @@
+/*
+ * Chapter 2
+ */
+
 use std::io; // Use the io library from the standard library to read user input. Similar to C++
              // 'using std;'.
 use rand::Rng;
